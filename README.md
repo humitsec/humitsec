@@ -13,14 +13,18 @@
     - Concurrent Systems Programming.
     - Distributed Systems Programming.
     - Event-Driven Programming.
-    - 
-- 📫 How to reach me: I'm currently working as an assistant teacher at the Technical University of Madrid (UPM)
+- 📫 How to reach me:
+  -  The easiest way to reach me is through my contact information in my GitHub profile.
+  -  You can also reach me through my contact information at Universidad Politécnica de Madrid (where I work).
 - 👯 I’m looking to collaborate on research projects related to:
   - Edge computing
   - Adaptive systems
   - Autonomous agents
   - Automated planning
-
+- 🌱 I’m currently learning how to become a better lecturer and researcher.
+- 💬 Ask me about:
+  - Any of the topics I'm researching or lecturing about.
+  - Vintage computing (mostly ZX Spectrum related).
 - ⚡ Fun facts:
   - I have been programming since I was 8-9 years old, when I got my first computer.
   - I have been and always will be a geek.
@@ -30,8 +34,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
