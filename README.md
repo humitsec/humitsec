@@ -28,6 +28,7 @@
 - ⚡ Fun facts:
   - I have been programming since I was 8-9 years old, when I got my first computer.
   - I have been and always will be a geek.
+  - I was an EMT-A volunteer (Emergency Medical Technician - Advanced) from 1994 to 2009.
 
 <!--
 **humitsec/humitsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
