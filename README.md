@@ -8,7 +8,7 @@
     - Edge computing.
     - Middleware and mediation systems.
     - Internet of Things. 
-  - As an assistan teacher, I'm lecturing about:
+  - As an assistant teacher, I'm lecturing about:
     - Object Oriented Programming.
     - Concurrent Systems Programming.
     - Distributed Systems Programming.
