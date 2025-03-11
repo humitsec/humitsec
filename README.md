@@ -8,7 +8,7 @@
     - Edge computing.
     - Middleware and mediation systems.
     - Internet of Things. 
-  - As an assistant teacher, I'm lecturing about:
+  - As an assistant professor, I'm lecturing about:
     - Object Oriented Programming.
     - Concurrent Systems Programming.
     - Distributed Systems Programming.
@@ -21,6 +21,13 @@
   - Adaptive systems
   - Autonomous agents
   - Automated planning
+  - Mission management and control
+  - Decision Support Systems
+  - Embedded AI
+  - AI uses and integration, including, but not restricted to:
+    - AI-Gen
+    - AI-Ed
+    - Semantic segmentation
 - 🌱 I’m currently learning how to become a better lecturer and researcher.
 - 💬 Ask me about:
   - Any of the topics I'm researching or lecturing about.
